@@ -5,5 +5,5 @@
 
 it contains
 
-*stuff
-*things
+* stuff
+* things
